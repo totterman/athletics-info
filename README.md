@@ -1,1 +1,1 @@
-This is a simple demosntration of Langchain4j and how Java and Spring can be user dor AI applications.
+This is a simple demonstration of Langchain4j and how Java and Spring can be used for AI applications.
